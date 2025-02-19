@@ -1,0 +1,7 @@
+# Ignore pycaches
+_pycache_/
+*.py[cod]
+
+# Venvs
+venv/
+.env/
